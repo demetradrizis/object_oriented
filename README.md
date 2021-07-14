@@ -3,10 +3,12 @@ This repository contains data structures implementation projects made in the COP
 
 # Projects:
 
-Project 1 - Triangle  
-Project 2 - Data  
-Project 3 - Time (Operator Overload)     
-Project 4 - Dynamic Arrays  
+Project 1 - Triangle    
+Project 2 - Time  
+Project 3 - Operator Overload and Dynamic Memory Allocation      
+Project 4 - Temperature  
+Project 5 - Maze  
+Project 6 - Polymorphism  
 
 # Academic Honesty & Appropriate Use
 
