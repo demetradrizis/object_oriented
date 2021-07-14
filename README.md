@@ -1,5 +1,5 @@
 # Object Oriented
-This repository contains data structures implementation projects made in the COP3330 course by Bob Myers at Florida State University.
+This repository contains object oriented implementation projects made in the COP3330 course by Bob Myers at Florida State University.
 
 # Projects:
 
