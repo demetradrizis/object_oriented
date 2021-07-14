@@ -3,7 +3,7 @@ This repository contains data structures implementation projects made in the COP
 
 # Projects:
 
-Project 1 - Diamond  
+Project 1 - Triangle  
 Project 2 - Data  
 Project 3 - Time (Operator Overload)     
 Project 4 - Dynamic Arrays  
