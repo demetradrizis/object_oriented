@@ -5,7 +5,7 @@ This repository contains data structures implementation projects made in the COP
 
 Project 1 - Diamond  
 Project 2 - Data  
-Project 3 - Time   
+Project 3 - Time (Operator Overload)     
 Project 4 - Dynamic Arrays  
 
 Academic Honesty & Appropriate Use
