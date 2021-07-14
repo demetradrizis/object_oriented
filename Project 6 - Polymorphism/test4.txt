@@ -1,0 +1,39 @@
+19
+Turner, Timmy
+Math 48 66 13 52 23 95 29 31
+Squarepants, Spongebob
+English 85 24 57 92
+Phantom, Danny
+History 76 70 78
+Tentacles, Squidward
+Math 65 69 16 80 92 15 45 60
+Star, Patrick
+History 0 0 0
+Cheeks, Sandy
+English 95 89 94 98
+Neutorn, Jimmy
+Math 100 100 100 100 100 100 100 100
+Vortex, Cindy
+Math 99 99 99 99 99 99 99 99
+Wheezer, Carl
+History 45 56 67
+Estevez, Sheen
+English 5 6 8 10
+Pickles, Tommy
+History 86 84 89
+Pickles, Angelica
+Math 85 97 76 46 36 32 99 6
+Thornberry, Eliza
+English 77 73 79 82
+Foley, Tucker
+English 86 87 94 90
+Funnie, Doug
+History 65 72 81
+Shortman, Arnold P.
+Math 11 85 69 24 49 23 3 15
+Wakeman, Jennifer
+Math 36 5 35 88 17 42 92 44
+Finster, Chuckie
+English 78 73 72 78
+Tabootie, Rudy
+English 87 95 93 90
